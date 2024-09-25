@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+#gradient-canvas {
+  width: 100%;
+  height: 100%;
+  --gradient-color-1: #7088ff;
+  --gradient-color-2: #3dffab;
+  --gradient-color-3: #fd3030;
+  --gradient-color-4: #ffae00;
+}
